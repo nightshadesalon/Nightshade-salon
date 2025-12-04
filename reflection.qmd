@@ -1,6 +1,6 @@
 ---
 title: "Website Deployment Reflection"
-author: "Merlyn White, 577490824"
+author: "Merlyn W"
 format:
   html:
     theme: darkly
