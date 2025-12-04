@@ -1,0 +1,32 @@
+---
+title: "Contact Us"
+format:
+  html:
+    theme: darkly
+    css: styles.css
+---
+
+We’d love to hear from you! Whether you want to book an appointment, ask a question, or just say hello, reach out to us using the information below.
+
+::: contact-info
+-   **Email:** [nightshadesalon\@gmail.com](mailto:nightshadesalon@gmail.com)\
+-   **Phone:** 250-802-7998
+:::
+
+<!-- Contact Form -->
+
+<form class="contact-form">
+
+<input type="text" placeholder="Your Name" required> <input type="email" placeholder="Email" required>
+
+```{=html}
+<textarea placeholder="Message" rows="5" required></textarea>
+```
+
+<button type="submit">
+
+Send Message
+
+</button>
+
+</form>
